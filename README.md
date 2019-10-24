@@ -1,8 +1,3 @@
-# IntelliJ Idea Java Environment for TDD
+# Roman Numerals assignemnt
 
-Simple IntelliJ Idea Java environment for Test Driven Development. Set up as described in https://online-training.jbrains.ca/courses/wbitdd-01/lectures/133270.
-
-The environment uses:
-- Java 11
-- JUnit 5
-- Hamcrest 2.1
+Write a Java program that converts integer numbers, in decimal notation, into their Roman numeral equivalents.
